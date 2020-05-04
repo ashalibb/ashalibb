@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Webpage</title>
+    </head>
+    <body>
+        Hello, world!
+    </body>
+</html>
+<html>
+    <head>
+      <style>
+          table{
+            border: 3px solid pink;
+            border-collapse:collapse;
+            width:auto
+          }
+          th {
+            border: 1px solid pink;
+            padding: 4px;
+          }
+          td {
+            border: 1px solid pink;
+          }
+        </style>
+</body>
